@@ -5,6 +5,8 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 ***
 
 # Platinenbohrmaschine
+von Jörg Ochs
+
 Halbautomatische Platinenbohrmaschine mit kamerabasierter Zentrierung. Bitte beachten Sie den Artikel in Make 2/2018.
 
 ### Raspberry für PCB-Bohrmaschine installieren
