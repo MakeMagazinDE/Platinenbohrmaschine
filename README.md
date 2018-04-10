@@ -1,0 +1,2 @@
+# Platinenbohrmaschine
+Halbautomatische Platinenbohrmaschine mit kamerabasierter Zentrierung
